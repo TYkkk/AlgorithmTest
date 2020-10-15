@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30204.135
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScholarshipProblem", "AlgorithmTest\ScholarshipProblem.csproj", "{BEF694D7-2EA4-46BC-8173-AF8D804C2710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadLampProblem", "RoadLampProblem\RoadLampProblem.csproj", "{FD7203EF-0BB3-4F10-AF04-738427580C52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BEF694D7-2EA4-46BC-8173-AF8D804C2710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BEF694D7-2EA4-46BC-8173-AF8D804C2710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BEF694D7-2EA4-46BC-8173-AF8D804C2710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD7203EF-0BB3-4F10-AF04-738427580C52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD7203EF-0BB3-4F10-AF04-738427580C52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD7203EF-0BB3-4F10-AF04-738427580C52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD7203EF-0BB3-4F10-AF04-738427580C52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
